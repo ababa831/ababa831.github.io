@@ -7,6 +7,7 @@ Kaggle Competitions Expert
 
 戦績は[こちら](https://www.kaggle.com/ababa83)
 
+<br>
 
 # Machine Learning A Week
 
@@ -18,6 +19,7 @@ Kaggle Competitions Expert
 ## 成果物
 - これから載せます
 
+<br>
 
 # 記事
 
@@ -26,3 +28,5 @@ Kaggle Competitions Expert
 ## 成果物
 - 【Kaggle】TalkingDataコンペを振り返る
 - [NVIDIA Jetson TX2でTensorFlowによる人体姿勢推定プログラムを動かせるようになるまで](https://qiita.com/ababa893/items/57b43e788d684c380866)
+
+<br>
