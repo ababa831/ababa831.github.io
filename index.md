@@ -18,4 +18,8 @@ Kaggle Competitions Expert
 
 # 記事
 
-論文、専門書等を読んで学んだことをアウトプットします。また、Kaggleに参加して獲得した知識の振り返りも行う予定。
+論文、専門書等を読んで学んだこと等をアウトプットします。また、Kaggleに参加して獲得した知識の振り返りも行う予定。
+
+## 成果物
+- 【Kaggle】TalkingDataコンペを振り返る
+- [NVIDIA Jetson TX2でTensorFlowによる人体姿勢推定プログラムを動かせるようになるまで](https://qiita.com/ababa893/items/57b43e788d684c380866)
