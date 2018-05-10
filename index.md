@@ -4,6 +4,7 @@
 Python, Keras, Google Cloud Datalab, BigQueryをよく利用します。
 
 Kaggle Competitions Expert
+
 戦績は[こちら](https://www.kaggle.com/ababa83)
 
 # Machine Learning A Week
