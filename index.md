@@ -17,7 +17,7 @@ Kaggle Competitions Expert
 
 
 ## 成果物
-- [ブログの有害（荒らし）コメント分類器](https://github.com/ababa893/blog-toxic-comment-classification)
+- 2018-05-16 [ブログの有害（荒らし）コメント分類器](https://github.com/ababa893/blog-toxic-comment-classification)
 
 <br>
 
