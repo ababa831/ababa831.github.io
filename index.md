@@ -4,10 +4,10 @@
 Python, Keras, Google Cloud Datalab, BigQueryをよく利用します。
 
 Kaggle Competitions Expert
-
 戦績は[こちら](https://www.kaggle.com/ababa83)
 
-<br>
+[Twitter](https://twitter.com/ababa893)
+[Qiita](https://qiita.com/ababa893)
 
 # Machine Learning A Week
 
@@ -17,13 +17,13 @@ Kaggle Competitions Expert
 
 
 ## 成果物
-- これから載せます
+- [ブログの有害（荒らし）コメント分類器](https://github.com/ababa893/blog-toxic-comment-classification)
 
 <br>
 
 # 記事
 
-論文、専門書等を読んで学んだこと等をアウトプットします。また、Kaggleに参加して獲得した知識の振り返りも行う予定。
+論文、専門書等を読んで学んだことをアウトプットします。また、Kaggleに参加して獲得した知識の振り返りも行う予定。
 
 ## 成果物
 - 【Kaggle】TalkingDataコンペを振り返る
