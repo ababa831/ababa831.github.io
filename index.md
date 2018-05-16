@@ -7,7 +7,10 @@ Kaggle Competitions Expert
 戦績は[こちら](https://www.kaggle.com/ababa83)
 
 [Twitter](https://twitter.com/ababa893)
+
 [Qiita](https://qiita.com/ababa893)
+
+<br>
 
 # Machine Learning A Week
 
