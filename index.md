@@ -14,13 +14,14 @@ Kaggle Competitions Expert
 
 # Machine Learning A Week
 
-１週間に１個ゲームを作る[Game A Week](https://www.gamasutra.com/blogs/RamiIsmail/20140226/211807/Game_A_Week_Getting_Experienced_At_Failure.php)というチャレンジに触発され、機械学習を利用した何らかのツールを作成する**Machine Learning A Week**をやっていきます。
+１週間に１個ゲームを作る[Game A Week](https://www.gamasutra.com/blogs/RamiIsmail/20140226/211807/Game_A_Week_Getting_Experienced_At_Failure.php)というチャレンジに触発され、機械学習を利用した何らかのツールを作成する**Machine Learning A Week**をやっていきます。（プライベートで特別な事情がある場合，更に作りこむ価値があると判断した場合は，長期的になるかもしれません．）
 
 自然言語処理関係がメインになる予定。
 
 
 ## 成果物
 - 2018-05-16 [ブログの有害（荒らし）コメント分類器](https://github.com/ababa893/blog-toxic-comment-classification)
+- 2018-05-26 [Kaggleでよく使うツール置き場](https://github.com/ababa893/kaggle-tools) 
 
 <br>
 
