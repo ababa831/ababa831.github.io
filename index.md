@@ -24,6 +24,7 @@ Kaggle Competitions Expert
 ## 成果物
 - 2018-05-16 [ブログの有害（荒らし）コメント分類器](https://github.com/ababa893/blog-toxic-comment-classification)
 - 2018-05-26 [Kaggleでよく使うツール置き場](https://github.com/ababa893/kaggle-tools) 
+- 2018-06-02 [TF-IDFとRidge Classifierで文書の機械学習](https://github.com/ababa893/tfidf-ridge)
 
 <br>
 
