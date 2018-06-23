@@ -25,8 +25,8 @@ Kaggle Competitions Expert
 - 2018年5月第3週　[ブログの有害（荒らし）コメント分類器](https://github.com/ababa893/blog-toxic-comment-classification)
 - 2018年5月第4週　[Kaggleでよく使うツール置き場](https://github.com/ababa893/kaggle-tools) 
 - 2018年6月第1週　[TF-IDFとRidge Classifierで文書の機械学習](https://github.com/ababa893/tfidf-ridge)
-- 2018年6月第2・3週　諸事情につきパス
-- 2018年6月第4週　
+- 2018年6月第2・3週　諸事情につきパス(今後，埋め合わせる予定)
+- 2018年6月第4週　[テキストデータを再翻訳してサンプル数を増やす方法](https://github.com/ababa893/text_augmentation)
 
 <br>
 
