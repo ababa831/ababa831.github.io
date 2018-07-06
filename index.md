@@ -27,7 +27,7 @@ Kaggle Competitions Expert
 - 2018年6月第1週　[TF-IDFとRidge Classifierで文書の機械学習](https://github.com/ababa893/tfidf-ridge)
 - 2018年6月第2・3週　諸事情につきパス(今後，埋め合わせる予定)
 - 2018年6月第4週　[テキストデータを再翻訳してサンプル数を増やす方法](https://github.com/ababa893/text_augmentation)
-- 2018年6月第5週　[Avito Demand Prediction Challengeのコード整理（不定期更新）](https://github.com/ababa893/kaggle-avito)
+- 2018年6月第5週　[Avito Demand Prediction Challengeのコード整理](https://github.com/ababa893/kaggle-avito)
 
 <br>
 
