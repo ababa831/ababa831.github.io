@@ -28,7 +28,9 @@ Kaggle Competitions Expert
 - 2018年6月第2・3週　諸事情につきパス(今後，埋め合わせる予定)
 - 2018年6月第4週　[テキストデータを再翻訳してサンプル数を増やす方法](https://github.com/ababa893/text_augmentation)
 - 2018年6月第5週　[Avito Demand Prediction Challengeのコード整理](https://github.com/ababa893/kaggle-avito)
-
+- [Seq2Seqの勉強用コード](https://github.com/ababa893/seq2seq-practice)
+    - 2018年7月第1週  part1. [Sutskeverら (2014)](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)を参考にした，[4層LSTMによるモデルの実験](https://github.com/ababa893/seq2seq-practice/blob/master/model_experiment.ipynb)
+    - 2018年7月第2週  part2. [Bahdanauら (2015)](https://arxiv.org/pdf/1409.0473.pdf)を参考にした，[Attention付きモデルの実験]()
 <br>
 
 # 記事
@@ -38,5 +40,6 @@ Kaggle Competitions Expert
 ## 成果物
 - 【Kaggle】TalkingDataコンペを振り返る
 - [NVIDIA Jetson TX2でTensorFlowによる人体姿勢推定プログラムを動かせるようになるまで](https://qiita.com/ababa893/items/57b43e788d684c380866)
+- RNN～seq2seqまで，基本を学ぶ
 
 <br>
