@@ -12,8 +12,8 @@ Kaggle Competitions Expert
 
 <br>
 
-お問い合わせはこちらから: 
-inquirybox111[at]gmail.com
+**お問い合わせはこちらから: 
+inquirybox111[at]gmail.com**
 
 # Machine Learning A Week
 
