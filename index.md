@@ -34,7 +34,7 @@ inquirybox111[at]gmail.com
 - [Seq2Seqの勉強用コード](https://github.com/ababa893/seq2seq-practice)
     - 2018年7月第1週  part1. [Sutskeverら (2014)](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)を参考にした，[4層LSTMによるモデルの実験](https://github.com/ababa893/seq2seq-practice/blob/master/model_experiment.ipynb)
     - 2018年7月第2週  part2. [Bahdanauら (2015)](https://arxiv.org/pdf/1409.0473.pdf)を参考にした，[Attention付きモデルの実験]()
-- 他の作業に注力するため，一時中断
+- 他の大型プロジェクトに注力するため，一時中断
 <br>
 
 # 記事
