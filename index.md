@@ -47,3 +47,10 @@ inquirybox111[at]gmail.com
 - RNN～seq2seqまで，基本を学ぶ
 
 <br>
+
+# 頭の体操
+AtCoder，A~C問題の過去問を毎日解く．まずは[ここ](http://delta114514.hatenablog.jp/entry/2018/03/15/014555)から．
+
+開始日:2018-08-01
+
+[答案置き場](https://github.com/ababa893/atcoder_beginners)
