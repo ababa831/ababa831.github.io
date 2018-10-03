@@ -1,6 +1,6 @@
 # About Me
 
-機械学習、自然言語処理関係の技術に興味がある院生です。
+機械学習、自然言語処理関係の技術に興味があります。
 Python, Keras, Google Cloud Datalab, BigQueryをよく利用します。
 
 Kaggle Competitions Expert
