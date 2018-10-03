@@ -6,9 +6,9 @@ Python, Keras, Google Cloud Datalab, BigQueryをよく利用します。
 Kaggle Competitions Expert
 戦績は[こちら](https://www.kaggle.com/ababa83)
 
-[Twitter](https://twitter.com/ababa893)
+[Twitter](https://twitter.com/ababa831)
 
-[Qiita](https://qiita.com/ababa893)
+[Qiita](https://qiita.com/ababa831)
 
 <br>
 
